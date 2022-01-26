@@ -10,6 +10,9 @@ with feature documentation available [here](https://docs.google.com/spreadsheets
 
 - Python (numpy, pandas, matplotlib, seaborn)
 
+![](chartsbp.png)
+![](chartsvp.png)
+
 ## Findings
 
 - There is a strong positive relationship between interest rate and annual percentage rate (APR)
