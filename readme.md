@@ -8,7 +8,13 @@ with feature documentation available [here](https://docs.google.com/spreadsheets
 
 ## Tools
 
-- Python (numpy, pandas, matplotlib, seaborn)
+- Done with Python using:
+    - Numpy
+    - Pandas
+    - Matplotlib
+    - Seaborn
+
+## Sample visualizations
 
 ![](chartsbp.png)
 ![](chartsvp.png)
