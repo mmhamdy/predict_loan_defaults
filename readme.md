@@ -1,12 +1,12 @@
 # Communicating data findings from the analysis of Prosper's Loan data
 
-## Overview
+## 📜 Overview
 
 The data consists of information regarding more than 100,000 loans on Prosper with more than 80 features.
 The dataset can be found [here](https://www.google.com/url?q=https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv&sa=D&ust=1608053448414000&usg=AOvVaw3QHm2jzSaCPaBUbEvUXtSg),
 with feature documentation available [here](https://docs.google.com/spreadsheets/d/1gDyi_L4UvIrLTEC6Wri5nbaMmkGmLQBk-Yx3z0XDEtI/edit#gid=0). We have selected some features of interest from the available 81 features, performed data cleaning to remove duplicates, missing values, and make the data more consistent for analysis. These changes were saved to a new dataset `prosper_loan_sub.csv`, which is attached along other project files.
 
-## Tools
+## 🛠 Tools
 
 - Done with Python using:
     - Numpy
