@@ -1,4 +1,4 @@
-# Communicating data findings from the analysis of Prosper's Loan data
+# Analysis of Prosper's Loan data
 
 ## 📜 Overview
 
